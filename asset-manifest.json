@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/bsc-invoice-public/static/css/main.f855e6bc.css",
+    "main.js": "/bsc-invoice-public/static/js/main.a7069246.js",
+    "static/js/453.57d3862d.chunk.js": "/bsc-invoice-public/static/js/453.57d3862d.chunk.js",
+    "static/media/bg-sign-in-basic.jpeg": "/bsc-invoice-public/static/media/bg-sign-in-basic.f327db1d0e4b00ba3c81.jpeg",
+    "index.html": "/bsc-invoice-public/index.html",
+    "main.f855e6bc.css.map": "/bsc-invoice-public/static/css/main.f855e6bc.css.map",
+    "main.a7069246.js.map": "/bsc-invoice-public/static/js/main.a7069246.js.map",
+    "453.57d3862d.chunk.js.map": "/bsc-invoice-public/static/js/453.57d3862d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.a7069246.js"
+  ]
+}
